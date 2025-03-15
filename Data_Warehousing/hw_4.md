@@ -1,6 +1,6 @@
 I took three data sources into account. 
 1.2.Documentation describing the sources and their relationships
-# SS
+
 The relationship between
 customers → sales: A one-to-many relationship, where each customer can make multiple sales.
 products → sales: A one-to-many relationship, where each product can be part of multiple sales transactions.
