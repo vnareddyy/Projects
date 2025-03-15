@@ -21,7 +21,7 @@ USE SCHEMA SALES_SCHEMA;
 CREATE OR REPLACE TABLE SALES_DB.SALES_SCHEMA.customers (
     customer_id STRING PRIMARY KEY,
     gender STRING,
-    age INT,
+    age INT;
     city STRING,
     state STRING,
     loyalty_tier STRING
