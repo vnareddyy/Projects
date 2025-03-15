@@ -103,7 +103,7 @@ Data is transformed into a normalized format with separate tables for customers,
 --CONVERT SALE DATE FROM STRING TO DATE
 ALTER TABLE SALES_DB.SALES_SCHEMA.staging_sales ADD COLUMN sale_date_converted DATE;
 
-![PROOFOFDATALOAD](./images/PROOFOFDATALOAD.png "PROOFOFDATALOAD")
+![LOADINGSTAGEDTABLES](./images/LOADINGSTAGEDTABLES.png "LOADINGSTAGEDTABLES")
 
 UPDATE SALES_DB.SALES_SCHEMA.staging_sales 
 SET sale_date_converted = TRY_TO_DATE(sale_date, 'YYYY-MM-DD');
@@ -123,7 +123,8 @@ SELECT DISTINCT * FROM SALES_DB.SALES_SCHEMA.staging_products;
 
 DESC TABLE SALES_DB.SALES_SCHEMA.staging_sales;
 DESC TABLE SALES_DB.SALES_SCHEMA.sales;
-![LOADINGSTAGEDTABLES](./images/LOADINGSTAGEDTABLES.png "LOADINGSTAGEDTABLES")
+![PROOFOFDATALOAD](./images/PROOFOFDATALOAD.png "PROOFOFDATALOAD")
+
 
 
 INSERT INTO SALES_DB.SALES_SCHEMA.sales (sale_id, customer_id, product_id, quantity, total_amount, sale_date)
