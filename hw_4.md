@@ -1,4 +1,6 @@
-I took three data sources into account. 
+I took three data sources into account.
+1.1. Raw Files
+![DATA_SOURCES_DESCRIPTION](./images/DATA_SOURCES_DESCRIPTION.png "DATA_SOURCES_DESCRIPTION")
 1.2.Documentation describing the sources and their relationships
 # SS
 The relationship between
@@ -6,9 +8,10 @@ customers → sales: A one-to-many relationship, where each customer can make mu
 products → sales: A one-to-many relationship, where each product can be part of multiple sales transactions.
 sales contains foreign keys linking to customers and products.
 1.3. DATA DICTIONARY
-# SS
-# SS
-# SS
+![DATA_DICTIONARY1](./images/DATA_DICTIONARY1.png "DATA_DICTIONARY1")
+![DATA_DICTIONARY2](./images/DATA_DICTIONARY2.png "DATA_DICTIONARY2")
+![DATA_DICTIONARY3](./images/DATA_DICTIONARY3.png "DATA_DICTIONARY3")
+
 
 2.1.DDL SCRIPTS FOR CREATING NORMALIZED DATABASE SCHEMA:
 CREATE OR REPLACE DATABASE SALES_DB;
