@@ -133,7 +133,6 @@ FROM SALES_DB.SALES_SCHEMA.staging_sales;
 
 SELECT COUNT(*) FROM SALES_DB.SALES_SCHEMA.sales;
 SELECT * FROM SALES_DB.SALES_SCHEMA.sales LIMIT 10;
-![PROOFOFDATALOAD](./images/PROOFOFDATALOAD.png "PROOFOFDATALOAD")
 
 Documentation of the ETL Process:
 Extract: Files are uploaded to the GCS bucket and loaded into Snowflake staging tables.
