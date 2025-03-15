@@ -1,0 +1,101 @@
+product_id,product_category,price_per_unit,product_name,brand
+PROD001,Sports,457.91,Product_1,BrandC
+PROD002,Books,425.77,Product_2,BrandD
+PROD003,Home & Kitchen,227.48,Product_3,BrandA
+PROD004,Books,52.23,Product_4,BrandA
+PROD005,Books,188.56,Product_5,BrandB
+PROD006,Clothing,336.08,Product_6,BrandC
+PROD007,Home & Kitchen,334.63,Product_7,BrandC
+PROD008,Home & Kitchen,297.69,Product_8,BrandB
+PROD009,Home & Kitchen,140.99,Product_9,BrandB
+PROD010,Books,282.82,Product_10,BrandC
+PROD011,Sports,194.55,Product_11,BrandC
+PROD012,Home & Kitchen,486.0,Product_12,BrandD
+PROD013,Books,425.21,Product_13,BrandD
+PROD014,Clothing,362.26,Product_14,BrandB
+PROD015,Sports,121.81,Product_15,BrandD
+PROD016,Clothing,131.75,Product_16,BrandA
+PROD017,Sports,25.01,Product_17,BrandD
+PROD018,Books,356.78,Product_18,BrandD
+PROD019,Electronics,59.89,Product_19,BrandA
+PROD020,Sports,222.47,Product_20,BrandB
+PROD021,Clothing,104.85,Product_21,BrandA
+PROD022,Books,448.4,Product_22,BrandD
+PROD023,Sports,240.31,Product_23,BrandB
+PROD024,Electronics,283.82,Product_24,BrandD
+PROD025,Electronics,349.28,Product_25,BrandA
+PROD026,Home & Kitchen,73.97,Product_26,BrandA
+PROD027,Home & Kitchen,304.19,Product_27,BrandD
+PROD028,Clothing,272.22,Product_28,BrandC
+PROD029,Sports,105.52,Product_29,BrandC
+PROD030,Sports,471.71,Product_30,BrandA
+PROD031,Home & Kitchen,301.44,Product_31,BrandA
+PROD032,Sports,348.92,Product_32,BrandC
+PROD033,Sports,440.83,Product_33,BrandC
+PROD034,Electronics,314.06,Product_34,BrandD
+PROD035,Home & Kitchen,151.34,Product_35,BrandD
+PROD036,Books,57.22,Product_36,BrandC
+PROD037,Home & Kitchen,230.98,Product_37,BrandD
+PROD038,Books,113.13,Product_38,BrandD
+PROD039,Electronics,211.17,Product_39,BrandB
+PROD040,Clothing,442.22,Product_40,BrandD
+PROD041,Sports,165.55,Product_41,BrandA
+PROD042,Electronics,65.43,Product_42,BrandD
+PROD043,Sports,181.37,Product_43,BrandD
+PROD044,Clothing,453.88,Product_44,BrandC
+PROD045,Clothing,139.71,Product_45,BrandA
+PROD046,Electronics,325.61,Product_46,BrandD
+PROD047,Clothing,5.26,Product_47,BrandD
+PROD048,Books,179.52,Product_48,BrandB
+PROD049,Clothing,155.87,Product_49,BrandD
+PROD050,Sports,86.5,Product_50,BrandD
+PROD051,Sports,269.37,Product_51,BrandB
+PROD052,Sports,244.99,Product_52,BrandC
+PROD053,Sports,347.76,Product_53,BrandD
+PROD054,Books,138.36,Product_54,BrandB
+PROD055,Home & Kitchen,125.84,Product_55,BrandA
+PROD056,Electronics,88.3,Product_56,BrandC
+PROD057,Sports,113.29,Product_57,BrandA
+PROD058,Clothing,281.26,Product_58,BrandA
+PROD059,Sports,204.9,Product_59,BrandB
+PROD060,Clothing,37.12,Product_60,BrandD
+PROD061,Clothing,130.69,Product_61,BrandB
+PROD062,Sports,127.2,Product_62,BrandB
+PROD063,Books,349.67,Product_63,BrandB
+PROD064,Clothing,357.57,Product_64,BrandB
+PROD065,Clothing,78.3,Product_65,BrandC
+PROD066,Sports,498.88,Product_66,BrandD
+PROD067,Clothing,137.06,Product_67,BrandA
+PROD068,Clothing,488.42,Product_68,BrandA
+PROD069,Sports,208.46,Product_69,BrandD
+PROD070,Sports,21.36,Product_70,BrandA
+PROD071,Electronics,175.81,Product_71,BrandD
+PROD072,Books,319.0,Product_72,BrandA
+PROD073,Books,341.95,Product_73,BrandB
+PROD074,Clothing,267.81,Product_74,BrandA
+PROD075,Books,226.65,Product_75,BrandD
+PROD076,Clothing,278.68,Product_76,BrandD
+PROD077,Electronics,298.38,Product_77,BrandD
+PROD078,Sports,45.02,Product_78,BrandD
+PROD079,Sports,187.98,Product_79,BrandD
+PROD080,Sports,124.87,Product_80,BrandC
+PROD081,Books,402.55,Product_81,BrandC
+PROD082,Electronics,237.8,Product_82,BrandA
+PROD083,Books,491.79,Product_83,BrandD
+PROD084,Books,202.42,Product_84,BrandA
+PROD085,Electronics,409.13,Product_85,BrandD
+PROD086,Electronics,400.18,Product_86,BrandD
+PROD087,Electronics,79.61,Product_87,BrandC
+PROD088,Electronics,256.56,Product_88,BrandC
+PROD089,Sports,349.43,Product_89,BrandB
+PROD090,Home & Kitchen,429.89,Product_90,BrandC
+PROD091,Home & Kitchen,166.35,Product_91,BrandB
+PROD092,Electronics,114.02,Product_92,BrandB
+PROD093,Home & Kitchen,357.02,Product_93,BrandB
+PROD094,Home & Kitchen,405.7,Product_94,BrandB
+PROD095,Electronics,177.59,Product_95,BrandB
+PROD096,Home & Kitchen,52.61,Product_96,BrandA
+PROD097,Books,470.56,Product_97,BrandC
+PROD098,Clothing,201.8,Product_98,BrandB
+PROD099,Clothing,261.29,Product_99,BrandD
+PROD100,Electronics,419.67,Product_100,BrandC
