@@ -1,0 +1,101 @@
+customer_id,gender,age,city,state,loyalty_tier
+CUST001,Other,61,Los Angeles,NY,Silver
+CUST002,Male,25,Houston,TX,Bronze
+CUST003,Other,41,Chicago,NY,Platinum
+CUST004,Other,28,New York,AZ,Platinum
+CUST005,Male,68,Houston,TX,Silver
+CUST006,Male,34,New York,IL,Gold
+CUST007,Other,25,New York,NY,Gold
+CUST008,Female,52,Los Angeles,NY,Gold
+CUST009,Other,52,Houston,TX,Platinum
+CUST010,Other,50,Houston,IL,Platinum
+CUST011,Other,22,Los Angeles,IL,Platinum
+CUST012,Other,59,Chicago,AZ,Bronze
+CUST013,Male,56,New York,IL,Silver
+CUST014,Other,58,Phoenix,IL,Platinum
+CUST015,Female,45,New York,IL,Silver
+CUST016,Male,24,New York,CA,Silver
+CUST017,Female,26,Chicago,AZ,Gold
+CUST018,Female,25,New York,NY,Bronze
+CUST019,Female,29,Los Angeles,TX,Platinum
+CUST020,Female,51,Los Angeles,NY,Gold
+CUST021,Male,50,Houston,AZ,Gold
+CUST022,Male,65,Phoenix,TX,Platinum
+CUST023,Female,40,New York,AZ,Silver
+CUST024,Female,41,New York,IL,Gold
+CUST025,Male,54,Chicago,TX,Silver
+CUST026,Male,52,Los Angeles,IL,Bronze
+CUST027,Male,61,Phoenix,NY,Silver
+CUST028,Other,57,Houston,NY,Bronze
+CUST029,Other,39,Los Angeles,TX,Silver
+CUST030,Other,44,Houston,TX,Gold
+CUST031,Female,52,Chicago,AZ,Gold
+CUST032,Other,18,Chicago,AZ,Bronze
+CUST033,Female,52,New York,IL,Platinum
+CUST034,Female,54,Phoenix,TX,Bronze
+CUST035,Other,64,Houston,NY,Bronze
+CUST036,Female,31,Los Angeles,AZ,Silver
+CUST037,Other,20,Chicago,AZ,Silver
+CUST038,Other,18,New York,NY,Bronze
+CUST039,Male,22,New York,AZ,Gold
+CUST040,Other,43,Houston,IL,Silver
+CUST041,Male,31,Chicago,TX,Platinum
+CUST042,Other,56,Phoenix,NY,Silver
+CUST043,Other,44,Chicago,TX,Silver
+CUST044,Male,26,Houston,AZ,Platinum
+CUST045,Male,32,Houston,AZ,Bronze
+CUST046,Other,32,Chicago,NY,Platinum
+CUST047,Female,43,Houston,IL,Bronze
+CUST048,Male,59,Chicago,CA,Bronze
+CUST049,Female,30,Los Angeles,NY,Bronze
+CUST050,Female,68,Chicago,CA,Platinum
+CUST051,Female,49,Chicago,CA,Bronze
+CUST052,Male,56,Houston,IL,Gold
+CUST053,Female,66,Houston,CA,Platinum
+CUST054,Male,69,New York,CA,Gold
+CUST055,Female,49,New York,IL,Bronze
+CUST056,Other,21,Los Angeles,CA,Silver
+CUST057,Other,47,New York,CA,Bronze
+CUST058,Male,54,Chicago,CA,Gold
+CUST059,Other,40,Houston,NY,Gold
+CUST060,Other,56,New York,NY,Platinum
+CUST061,Female,62,New York,NY,Silver
+CUST062,Male,32,Los Angeles,IL,Platinum
+CUST063,Female,60,Los Angeles,AZ,Gold
+CUST064,Female,46,Chicago,CA,Bronze
+CUST065,Female,53,Houston,CA,Silver
+CUST066,Female,30,Los Angeles,IL,Bronze
+CUST067,Female,49,New York,CA,Bronze
+CUST068,Female,24,Houston,NY,Silver
+CUST069,Female,68,Houston,AZ,Platinum
+CUST070,Male,39,New York,TX,Bronze
+CUST071,Other,45,Los Angeles,CA,Gold
+CUST072,Female,19,New York,NY,Bronze
+CUST073,Female,59,Houston,TX,Silver
+CUST074,Female,62,Phoenix,AZ,Silver
+CUST075,Female,23,Phoenix,TX,Silver
+CUST076,Female,45,Chicago,NY,Platinum
+CUST077,Female,45,New York,TX,Bronze
+CUST078,Other,61,New York,IL,Platinum
+CUST079,Other,61,Chicago,TX,Platinum
+CUST080,Female,37,Chicago,CA,Silver
+CUST081,Other,47,Chicago,CA,Silver
+CUST082,Male,28,Houston,IL,Platinum
+CUST083,Female,45,New York,NY,Bronze
+CUST084,Male,42,Houston,CA,Gold
+CUST085,Male,56,Chicago,AZ,Platinum
+CUST086,Female,50,New York,CA,Bronze
+CUST087,Other,18,Houston,CA,Silver
+CUST088,Male,44,Houston,NY,Silver
+CUST089,Female,69,Chicago,TX,Bronze
+CUST090,Male,30,New York,CA,Gold
+CUST091,Male,58,Chicago,IL,Silver
+CUST092,Male,20,New York,TX,Silver
+CUST093,Male,56,Phoenix,AZ,Silver
+CUST094,Other,23,Los Angeles,NY,Bronze
+CUST095,Male,25,Los Angeles,AZ,Platinum
+CUST096,Male,44,Los Angeles,TX,Silver
+CUST097,Male,26,Chicago,TX,Platinum
+CUST098,Other,54,Phoenix,TX,Gold
+CUST099,Male,50,New York,AZ,Silver
+CUST100,Male,68,Houston,TX,Silver
