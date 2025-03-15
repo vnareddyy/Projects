@@ -6,9 +6,7 @@ customers → sales: A one-to-many relationship, where each customer can make mu
 products → sales: A one-to-many relationship, where each product can be part of multiple sales transactions.
 sales contains foreign keys linking to customers and products.
 1.3. DATA DICTIONARY
-# SS
-# SS
-# SS
+jwdldhkfno;sdailkfhc
 
 2.1.DDL SCRIPTS FOR CREATING NORMALIZED DATABASE SCHEMA:
 CREATE OR REPLACE DATABASE SALES_DB;
